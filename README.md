@@ -1,6 +1,6 @@
-# How can you use this API ?
+# Getting Started
 - Write the code to interact with the API, Example:
-This code is for read all of the api
+1. Read the whole api
 ```Python
 import requests
 base_url = 'https://salambae.pythonanywhere.com/api/v1/indonesia-general-name'
