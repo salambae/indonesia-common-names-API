@@ -1,5 +1,5 @@
 # Example usage
-### Here's an example of how to access the API (using Python):
+### Here's an example of how to access my API (using Python):
 All data from API will be read, no exception
 ```Python
 import requests
