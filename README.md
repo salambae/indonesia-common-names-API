@@ -1,5 +1,6 @@
 # How can you use this API ?
-- Write the code to interact with the API
+- Write the code to interact with the API, Example:
+This code is for read all of the api
 ```Python
 import requests
 base_url = 'https://salambae.pythonanywhere.com/api/v1/indonesia-general-name'
@@ -12,6 +13,7 @@ try:
 except requests.exceptions.RequestException as e:
     print(f'Error request{e}')
 ```
+
 # Example usage
 
 #
