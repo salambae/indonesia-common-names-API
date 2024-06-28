@@ -1,3 +1,6 @@
+# API Url
+```https://salambae.pythonanywhere.com/api/v1/indonesia-general-name```
+
 # Example usage
 ### Here's an example of how to access my API (using Python)
 All data from API will be read, no exception
