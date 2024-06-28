@@ -15,10 +15,12 @@
     except requests.exceptions.RequestException as e:
         print(f'Error request{e}')
     ```
+
 2. Accessing the API using command prompt:
    ```Prompt
    curl https://salambae.pythonwhere.com/api/v1/indonesia-general-name
    ```
+
 3. Generate random name:
    ```Python
    import requests
