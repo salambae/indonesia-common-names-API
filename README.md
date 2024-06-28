@@ -1,5 +1,9 @@
-# API Url
+# Indonesia General Name API
+### Example Endpoint
 ```https://salambae.pythonanywhere.com/api/v1/indonesia-general-name```
+
+### Endpoint
+```https://salambae.pythonanywhere.com/api/v1/indonesia-general-name [GET]```
 
 # Example usage
 ### Here's an example of how to access my API (using Python)
