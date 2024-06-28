@@ -3,7 +3,7 @@
 
 
 # Example usage
-1. ***Here's an example of how to access the API (using Python):***
+### ***Here's an example of how to access the API (using Python):***
 All data from API will be read, no exception
 ```Python
 import requests
@@ -18,11 +18,13 @@ except requests.exceptions.RequestException as e:
 ```
 
 ### Accessing the API using command prompt:
+Also, you can access the API from command prompt for example
 ```Prompt
    curl https://salambae.pythonwhere.com/api/v1/indonesia-general-name
 ```
 
-## Generating random name:
+### Generating random name:
+And also you can generate random name using ```randint()```
 ```Python
    import requests
    import random
