@@ -24,7 +24,7 @@ Also, you can access the API from command prompt for example
 ```
 
 ### Generating random name:
-And also you can generate random name using ```randint()```
+Use ```randint()``` method for generating a random name, example:
 ```Python
    import requests
    import random
