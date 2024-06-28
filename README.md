@@ -1,7 +1,3 @@
-# Getting Started
-- Write the code to interact with the API, Example:
-
-
 # Example usage
 ### Here's an example of how to access the API (using Python):
 All data from API will be read, no exception
@@ -24,7 +20,7 @@ curl https://salambae.pythonwhere.com/api/v1/indonesia-general-name
 ```
 
 ### Generating random name:
-Use ```randint()``` method for generating a random name, example:
+Use ```randint()``` method for generating a random name, example
 ```Python
 import requests
 import random
@@ -40,3 +36,5 @@ except requests.exceptions.RequestException as e:
 
 ### Swap the firstName with lastname:
 
+# Getting Started
+API (Aplication Programming Interface) are essential tools for modern software development, enabling seamless communication between different systems and services. 
