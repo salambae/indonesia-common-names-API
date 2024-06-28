@@ -1,5 +1,5 @@
 # Example usage
-### Here's an example of how to access my API (using Python):
+### Here's an example of how to access my API (using Python)
 All data from API will be read, no exception
 ```Python
 import requests
@@ -13,13 +13,13 @@ except requests.exceptions.RequestException as e:
     print(f'Error request{e}'
 ```
 
-### Accessing the API using command prompt:
+### Accessing the API using command prompt
 Also, you can access the API from command prompt for example
 ```Prompt
 curl https://salambae.pythonwhere.com/api/v1/indonesia-general-name
 ```
 
-### Generating random name:
+### Generating random name
 Use ```randint()``` method for generating a random name, example
 ```Python
 import requests
@@ -34,7 +34,7 @@ except requests.exceptions.RequestException as e:
     print(f'Error request: {e}')
 ```
 
-### Swap the firstName with lastname:
+### Swap the firstName with lastname
 
 # Getting Started
 API (Aplication Programming Interface) are essential tools for modern software development, enabling seamless communication between different systems and services. 
