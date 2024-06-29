@@ -1,6 +1,16 @@
 # Indonesia General Name API
 ### Example Endpoint
 ```https://salambae.pythonanywhere.com/api/v1/indonesia-general-name```
+```Output
+{
+    "data": [
+        {
+            "firstName": "Ahamd",
+            "lastName": "Fauzi"
+        },
+    ]
+}
+```
 
 ### Endpoint
 ```https://salambae.pythonanywhere.com/api/v1/indonesia-general-name [GET]```
