@@ -1,7 +1,11 @@
 # Indonesia General Name API
-### Example Endpoint
-```https://salambae.pythonanywhere.com/api/v1/indonesia-general-name```
-```Output
+
+### Base URL: ```https://salambae.pythonanywhere.com/api/v1/indonesia-general-name```
+
+### Endpoint
+```https://salambae.pythonanywhere.com/api/v1/indonesia-general-name [GET]```
+The output will be:
+```
 {
     "data": [
         {
@@ -11,9 +15,6 @@
     ]
 }
 ```
-
-### Endpoint
-```https://salambae.pythonanywhere.com/api/v1/indonesia-general-name [GET]```
 
 # Example usage
 ### Here's an example of how to access my API (using Python)
