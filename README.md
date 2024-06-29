@@ -1,6 +1,7 @@
 # Indonesia General Name API
 
-### Base URL: ```https://salambae.pythonanywhere.com/api/v1/indonesia-general-name```
+### Base URL
+```https://salambae.pythonanywhere.com/api/v1/indonesia-general-name```
 
 ### Endpoint
 ```https://salambae.pythonanywhere.com/api/v1/indonesia-general-name [GET]```
