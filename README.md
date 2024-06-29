@@ -5,7 +5,7 @@
 {
     "data": [
         {
-            "firstName": "Ahamd",
+            "firstName": "Ahmad",
             "lastName": "Fauzi"
         },
     ]
