@@ -1,4 +1,4 @@
-# Indonesia Commons Names API
+# Indonesia Common Names API
 
 ### Base URL
 ```https://salambae.pythonanywhere.com/api/v1/indonesia-general-name```
